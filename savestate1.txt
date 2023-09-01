@@ -1,0 +1,13 @@
+75 2 0
+Humpty
+75 2 0
+ITA
+50 1 0
+Gump
+75 2 0
+CPOR
+75 2 0
+MyCool
+50 1 0
+Verri
+1

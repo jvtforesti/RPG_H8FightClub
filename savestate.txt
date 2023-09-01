@@ -1,0 +1,13 @@
+40 2 6
+Humpty
+50 2 6
+ITA
+33 1 6
+Gump
+23 2 5
+CPOR
+0 1 6
+null
+0 1 6
+Verri
+0
